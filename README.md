@@ -1,6 +1,7 @@
 # Choi Young Woo 😉
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiedra-de-flor&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<img src="https://github.com/user-attachments/assets/c0babb50-1350-4bb5-929c-c7ebb108d375" width="300"/>
+
 
 ![Young Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=piedra-de-flor&show_icons=true&theme=radical)
 <br>
