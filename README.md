@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Choi Young Woo 👋</h1>
 <p align="center">
   Backend Developer | Java & Spring 기반의 시스템을 설계하고 운영하는 걸 좋아합니다.<br>
-  로그, 모니터링, 메시징 기반 시스템을 안정적으로 구축하는 데에 집중하고 있습니다.
 </p>
 
 <p align="center">
